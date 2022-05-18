@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+## 🚀 About Me
+
+## 🔨 Skills 
+
+## 🌱 Interest 
 <!--
 **sytan98/sytan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
