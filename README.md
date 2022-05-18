@@ -7,6 +7,8 @@ I am a final year Electronic and Information Engineering undergraduate at Imperi
 I am fluent in Python and C++, but I mainly love using Python. Recently, I have also picked up F#, a functional programming language, from a module at Imperial College. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sytan98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🌱 Interest 
 I have a strong interest in Machine Learning and Computer Vision, and enjoy reading about technologies and algorithms in these fields. I am also interested in Software Engineering as well as Computer Architecture.
