@@ -9,7 +9,7 @@ I am fluent in Python and C++, but I mainly love using Python. Recently, I have 
 <img src="https://github-readme-stats.vercel.app/api?username=sytan98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### 🌱 Interest 
-I have a strong interest in Machine Learning and Computer Vision. I enjoy reading about technologies and algorithms in these fields. 
+I have a strong interest in Machine Learning and Computer Vision, and enjoy reading about technologies and algorithms in these fields. I am also interested in Software Engineering as well as Computer Architecture.
 
 ### 🔭 I’m currently working on 
 My FYP project which involves incorporating IMU data into Camera Pose Regression. 
