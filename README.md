@@ -8,6 +8,15 @@ I am fluent in Python and C++, but I mainly love using Python. Recently, I have 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sytan98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--START_SECTION:waka-->
+
+```text
+Python       2 hrs 57 mins   ██████████████████████▒░░   89.64 %
+YAML         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+```
+
 <!--END_SECTION:waka-->
 
 ### 🌱 Interest 
