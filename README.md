@@ -12,6 +12,10 @@ I am fluent in Python and C++, but I mainly love using Python. Recently, I have 
 <!--START_SECTION:waka-->
 
 ```text
+From: 11 May 2022 - To: 18 May 2022
+
+Total Time: 3 hrs 18 mins
+
 Python       2 hrs 57 mins   ██████████████████████▒░░   89.64 %
 YAML         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
