@@ -7,6 +7,8 @@ I am a final year Electronic and Information Engineering undergraduate at Imperi
 I am fluent in Python and C++, but I mainly love using Python. Recently, I have also picked up F#, a functional programming language, from a module at Imperial College. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sytan98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```text
