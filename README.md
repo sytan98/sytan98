@@ -12,16 +12,16 @@ I am fluent in Python and C++, but I mainly love using Python. Recently, I have 
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 June 2022 - To: 22 June 2022
+From: 16 June 2022 - To: 23 June 2022
 
-Total Time: 58 hrs 28 mins
+Total Time: 54 hrs 51 mins
 
-Python       57 hrs 56 mins  ████████████████████████▓   99.09 %
-Text         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-INI          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python       54 hrs 12 mins  ████████████████████████▓   98.80 %
+Markdown     17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+INI          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 CSV          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
