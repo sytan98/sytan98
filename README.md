@@ -12,16 +12,16 @@ I am fluent in Python and C++, but I mainly love using Python. Recently, I have 
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 June 2022 - To: 26 June 2022
+From: 20 June 2022 - To: 27 June 2022
 
-Total Time: 42 hrs 2 mins
+Total Time: 37 hrs 27 mins
 
-Python       41 hrs          ████████████████████████▒   97.55 %
-Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-YAML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-C++          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python       36 hrs 25 mins  ████████████████████████▒   97.24 %
+Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+YAML         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C++          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
